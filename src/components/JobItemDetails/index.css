@@ -1,0 +1,25 @@
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.each-skill {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 30%;
+  margin-bottom: 20px;
+}
+.list-image {
+  height: 40px;
+  width: 40px;
+  margin-right: 15px;
+}
+.life-container {
+  display: flex;
+}
+.life-description {
+  width: 60%;
+}
+.life-image {
+  width: 40%;
+}
